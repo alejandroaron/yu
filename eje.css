@@ -1,0 +1,49 @@
+margin-bottom: 20px;
+
+}
+
+/* Estilos para las opciones */
+.opciones p {
+    background: black;
+    display: initial;
+    padding: 12px;
+    color: #ffffff;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+/* Estilos para el párrafo .pl */
+p.pl {
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    width: 100px;
+}
+p.pl:hover {
+    background: gray;
+    cursor: pointer;
+}
+
+/* Estilos para el párrafo .p2 */
+p.p2 {
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    width: 100px;
+}
+p.p2:hover {
+    background: gray;
+    cursor: pointer;
+}
+
+/* Estilos para el elemento #si */
+#si {
+    background: #515050;
+    left: 420px;
+    position: absolute;
+    top: 122px;
+    width: 550px;
+    color: #ffffff;
+    padding: 50px;
+    display: none;
+}
